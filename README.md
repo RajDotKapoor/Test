@@ -4,3 +4,13 @@
 ====
 
 A test repo
+
+----
+Topics to be reviewed:
+* Reset
+  * -- hard
+  * -- soft
+  * -- mixed
+* Reflog
+* Revert
+* Rebase
